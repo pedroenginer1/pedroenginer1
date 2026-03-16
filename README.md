@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Lingeardi! 👋
 
-<!--
-**pedroenginer1/pedroenginer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** (2º semestre) focado em construir soluções eficientes e apaixonado por tecnologia de ponta.
 
-Here are some ideas to get you started:
+### 🛠️ Sobre mim
+- 👨‍💻 Atuo com **Suporte de TI** (Sistemas Windows e Mac, redes e migrações).
+- ⚙️ Entusiasta de **Arduino, Eletrônica e Automação**.
+- 👕 Fundador da **Antagonist**, explorando o mundo do e-commerce.
+- 🏎️ Apaixonado pelo mundo automotivo, com foco em **performance, tuning e a cultura do drift**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Estudos
+- **Linguagens:** C++, Java, Python.
+- **Hardware:** Arduino, Digispark e prototipagem eletrônica.
+- **Foco Atual:** IA Generativa e arquitetura de sistemas.
+
+---
+📫 **Como me encontrar:**
+- 💼 [LinkedIn] https://www.linkedin.com/in/pedro-lingeardi-14b74330b/
+- 🛒 [Antagonist] antagonistt.com.br
